@@ -9,6 +9,19 @@
 # 6. Преобразуйте переменную `age` в строковый тип данных.
 # 7. Преобразуйте переменную `temperature` в целочисленный тип данных и присвойте новое значение переменной.
 #
+age = 20.12
+name = "Mila"
+is_student = True
+temperature = 28.5
+print(age)
+print(name)
+print(is_student)
+print(temperature)
+print(int(age))
+age = str(age)
+temperature = int(temperature)
+print(temperature)
+
 # Задание 2:
 # 1. Объявите переменную `x` и присвойте ей значение 10.
 # 2. Переопределите переменную `x` и присвойте ей новое значение 20.
@@ -27,23 +40,6 @@
 #   - Проверьте, меньше ли `a` чем `b`.
 #   - Проверьте, больше или равно ли `a` чем `b`.
 #   - Проверьте, меньше или равно ли `a` чем `b`.
-
-# Задание 1:
-
-age = 20.12
-name = "Mila"
-is_student = True
-temperature = 28.5
-print(age)
-print(name)
-print(is_student)
-print(temperature)
-print(int(age))
-age = str(age)
-temperature = int(temperature)
-print(temperature)
-
-# Задание 2:
 
 x = 10
 x = 20
