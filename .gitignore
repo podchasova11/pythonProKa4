@@ -1,0 +1,14 @@
+.pytest_cache
+__pycache__
+/.idea/
+/.pytest_cache/
+
+# Environments
+.env
+.idea
+.venv
+env/
+ENV/
+
+venv.bak/
+venv/Lib/
