@@ -3,7 +3,6 @@ __pycache__
 /.idea/
 /.pytest_cache/
 
-# Environments
 .env
 .idea
 .venv
