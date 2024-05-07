@@ -1,4 +1,13 @@
-.idea/misc.xml
 .pytest_cache
-__pycache__/
-venv/
+__pycache__
+/.idea/
+/.pytest_cache/
+
+.env
+.idea
+.venv
+env/
+ENV/
+
+venv.bak/
+venv/Lib/
